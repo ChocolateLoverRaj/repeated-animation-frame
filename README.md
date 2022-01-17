@@ -20,3 +20,6 @@ const stop = repeatedAnimationFrame(() => {
 // If you want to stop
 stop()
 ```
+
+## Docs
+https://chocolateloverraj.github.io/repeated-animation-frame/
